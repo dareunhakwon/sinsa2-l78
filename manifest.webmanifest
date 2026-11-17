@@ -1,0 +1,30 @@
+{
+ "name": "2026 신사중 2학년 2학기 기말 7, 8과 외부지문",
+ "short_name": "신사중2 기말 7, 8과",
+ "description": "압구정 다른학원 · 2026 신사중 2학년 2학기 기말 7, 8과 외부지문",
+ "lang": "ko",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "portrait",
+ "background_color": "#eef1f6",
+ "theme_color": "#1d4e89",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-maskable.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
